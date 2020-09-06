@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(47, 40, 23, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #bb5c00;
 }
 
 .tc-white {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #bb5c00;
     color: #FFFFFF!important;
 }
 
@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
