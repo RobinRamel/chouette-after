@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -1054,4 +1054,12 @@ blockquote.blockquote p {
 
 blockquote.blockquote footer::before {
     display: none !important;
+}
+
+input:focus, textarea:focus, button:focus {
+    border: 2px solid tomato;
+}
+
+a:focus {
+    text-decoration: underline;
 }
